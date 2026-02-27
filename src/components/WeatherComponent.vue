@@ -1,6 +1,6 @@
 <template>
   <div class="weather-container">
-    <h2>天气查询</h2>
+    <h2>当日天气查询</h2>
     
     <!-- 输入表单 -->
     <div class="input-group">
